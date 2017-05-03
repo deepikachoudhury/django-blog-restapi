@@ -1,0 +1,24 @@
+[
+{
+    "model": "blog.blog",
+    "pk": 3,
+    "fields": {
+        "title": "test blog for rest api",
+        "body": "this is an example to test rest api",
+        "publish": true,
+        "created": "2016-07-16T07:31:31.571Z",
+        "modified": "2016-07-16T07:31:31.571Z"
+    }
+},
+{
+    "model": "blog.blog",
+    "pk": 4,
+    "fields": {
+        "title": "test blog 1",
+        "body": "created with django 1.9 and used django rest framework to create rest apis",
+        "publish": true,
+        "created": "2016-07-16T16:15:20.150Z",
+        "modified": "2016-07-16T16:15:20.150Z"
+    }
+}
+]
